@@ -2,4 +2,6 @@ a simple page
 
 crear series animme
 
+crear peliculas
+CRUD autores
 AMapolo es genial
